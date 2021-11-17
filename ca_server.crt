@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=Savoie, L=Chambery, O=JbBp, OU=JbBp Unit, CN=jbbp.fr/emailAddress=juliette.bois@etu.univ-savoie.fr
+        Validity
+            Not Before: Oct 22 14:55:12 2021 GMT
+            Not After : Oct 22 14:55:12 2022 GMT
+        Subject: C=FR, ST=Savoie, O=JbBp, OU=JbBp Unit, CN=www.binome37.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b8:ee:6d:fc:e8:9d:c5:65:24:09:d8:e0:6c:67:
+                    1e:90:05:72:43:3f:c2:ad:d6:0c:9b:c5:c8:23:5a:
+                    c8:0d:29:bf:98:dc:94:c9:23:b0:c5:42:d3:1d:f9:
+                    2e:b5:6d:63:c3:21:2f:24:ae:ce:17:cd:a4:73:5d:
+                    cf:0d:88:b6:de:22:cd:16:7f:9a:3f:de:54:d9:09:
+                    5b:8d:18:b4:be:6a:4c:21:90:38:92:49:a6:21:df:
+                    c0:a7:3b:4a:8f:1a:01:60:7d:30:56:a9:52:7d:c4:
+                    d9:93:52:1c:3b:a9:0a:2e:d3:c7:17:c1:af:d8:df:
+                    60:c3:02:be:ca:21:46:21:4f:36:10:0f:74:6a:c9:
+                    77:11:1e:73:5b:be:ef:c7:a2:80:0a:a4:11:70:76:
+                    6d:2e:11:64:b6:77:c1:da:2b:b6:cb:ee:b6:c3:f6:
+                    9c:3a:e8:64:3c:e5:a9:c8:7e:72:d1:b9:03:21:25:
+                    6e:cf:f0:86:84:7a:61:4e:98:60:e9:7c:9d:55:c9:
+                    11:2f:ec:65:a0:d6:8b:74:28:68:64:43:13:b3:e8:
+                    90:06:9d:53:99:cc:9f:18:02:1b:20:17:d8:f1:a2:
+                    0e:ce:b5:c5:a8:80:9e:77:5c:6c:ae:61:ee:09:0f:
+                    0c:05:22:d4:e7:ff:f6:39:f2:a9:e5:ea:33:ff:1c:
+                    24:dd
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                OpenSSL Generated Certificate
+            X509v3 Subject Key Identifier: 
+                D2:73:03:62:1F:D6:2C:98:41:A5:8B:2D:A5:D4:A3:DE:A6:51:D0:04
+            X509v3 Authority Key Identifier: 
+                DirName:/C=FR/ST=Savoie/L=Chambery/O=JbBp/OU=JbBp Unit/CN=jbbp.fr/emailAddress=juliette.bois@etu.univ-savoie.fr
+                serial:C9:8B:E0:6B:E2:17:41:7B
+
+    Signature Algorithm: sha256WithRSAEncryption
+         80:05:8d:04:15:d0:02:13:0b:34:4d:39:f0:c8:5d:d4:00:7a:
+         1e:cc:11:0e:e0:70:54:35:90:64:93:58:ab:32:cb:0b:e0:5a:
+         77:b3:2d:7a:8f:6b:f7:8b:93:55:68:1c:f4:f5:30:a8:c9:05:
+         d1:0b:a7:22:e2:71:6c:36:3d:e9:13:a9:93:44:4b:22:53:77:
+         b7:8c:ed:b6:cd:7a:e1:b9:02:68:7f:66:bc:93:8c:eb:40:ea:
+         10:17:fe:5c:69:9b:20:24:6e:c8:7d:d8:8b:2e:9f:f1:96:7a:
+         9a:39:a4:29:65:7b:40:ab:d5:44:2b:aa:cb:5f:24:ea:5c:d4:
+         51:29:79:7c:e1:14:5e:15:da:fd:4d:c1:61:ea:62:cd:2e:d5:
+         4d:5d:0e:cc:c0:33:bd:99:68:d2:38:b7:54:0d:1d:fb:7d:7c:
+         09:ea:a8:1e:cf:f0:43:0c:b5:48:8c:ce:cd:e5:6b:83:4d:19:
+         6b:9b:3f:17:2b:ba:8e:1f:d7:9f:d3:e3:b3:72:fa:52:dc:e1:
+         fa:1f:4e:65:52:dd:79:a9:27:59:1b:c9:c3:ce:ae:ef:45:d7:
+         5b:4e:75:ec:8f:21:7a:1b:af:62:72:f0:19:90:ef:9f:32:4f:
+         49:62:32:4d:41:43:14:43:c9:d1:6e:19:b8:1e:a3:f4:72:39:
+         68:09:40:0c
+-----BEGIN CERTIFICATE-----
+MIIEhTCCA22gAwIBAgIBATANBgkqhkiG9w0BAQsFADCBlzELMAkGA1UEBhMCRlIx
+DzANBgNVBAgMBlNhdm9pZTERMA8GA1UEBwwIQ2hhbWJlcnkxDTALBgNVBAoMBEpi
+QnAxEjAQBgNVBAsMCUpiQnAgVW5pdDEQMA4GA1UEAwwHamJicC5mcjEvMC0GCSqG
+SIb3DQEJARYganVsaWV0dGUuYm9pc0BldHUudW5pdi1zYXZvaWUuZnIwHhcNMjEx
+MDIyMTQ1NTEyWhcNMjIxMDIyMTQ1NTEyWjBbMQswCQYDVQQGEwJGUjEPMA0GA1UE
+CAwGU2F2b2llMQ0wCwYDVQQKDARKYkJwMRIwEAYDVQQLDAlKYkJwIFVuaXQxGDAW
+BgNVBAMMD3d3dy5iaW5vbWUzNy5mcjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBALjubfzoncVlJAnY4GxnHpAFckM/wq3WDJvFyCNayA0pv5jclMkjsMVC
+0x35LrVtY8MhLySuzhfNpHNdzw2Itt4izRZ/mj/eVNkJW40YtL5qTCGQOJJJpiHf
+wKc7So8aAWB9MFapUn3E2ZNSHDupCi7TxxfBr9jfYMMCvsohRiFPNhAPdGrJdxEe
+c1u+78eigAqkEXB2bS4RZLZ3wdortsvutsP2nDroZDzlqch+ctG5AyElbs/whoR6
+YU6YYOl8nVXJES/sZaDWi3QoaGRDE7PokAadU5nMnxgCGyAX2PGiDs61xaiAnndc
+bK5h7gkPDAUi1Of/9jnyqeXqM/8cJN0CAwEAAaOCARUwggERMAkGA1UdEwQCMAAw
+LAYJYIZIAYb4QgENBB8WHU9wZW5TU0wgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0G
+A1UdDgQWBBTScwNiH9YsmEGliy2l1KPeplHQBDCBtgYDVR0jBIGuMIGroYGdpIGa
+MIGXMQswCQYDVQQGEwJGUjEPMA0GA1UECAwGU2F2b2llMREwDwYDVQQHDAhDaGFt
+YmVyeTENMAsGA1UECgwESmJCcDESMBAGA1UECwwJSmJCcCBVbml0MRAwDgYDVQQD
+DAdqYmJwLmZyMS8wLQYJKoZIhvcNAQkBFiBqdWxpZXR0ZS5ib2lzQGV0dS51bml2
+LXNhdm9pZS5mcoIJAMmL4GviF0F7MA0GCSqGSIb3DQEBCwUAA4IBAQCABY0EFdAC
+Ews0TTnwyF3UAHoezBEO4HBUNZBkk1irMssL4Fp3sy16j2v3i5NVaBz09TCoyQXR
+C6ci4nFsNj3pE6mTREsiU3e3jO22zXrhuQJof2a8k4zrQOoQF/5caZsgJG7IfdiL
+Lp/xlnqaOaQpZXtAq9VEK6rLXyTqXNRRKXl84RReFdr9TcFh6mLNLtVNXQ7MwDO9
+mWjSOLdUDR37fXwJ6qgez/BDDLVIjM7N5WuDTRlrmz8XK7qOH9ef0+OzcvpS3OH6
+H05lUt15qSdZG8nDzq7vRddbTnXsjyF6G69icvAZkO+fMk9JYjJNQUMUQ8nRbhm4
+HqP0cjloCUAM
+-----END CERTIFICATE-----
