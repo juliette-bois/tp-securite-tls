@@ -7,9 +7,6 @@ nickname = input("Choose your nickname: ")
 server_host = 'www.binome37.fr'
 server_port = 60000
 
-# hostname = 'www.binome37.fr'
-# port = 60002
-
 # use TLS Protocol
 context = ssl.SSLContext(ssl.PROTOCOL_TLS_CLIENT)
 # Validate server certificate
